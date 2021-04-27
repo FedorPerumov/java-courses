@@ -9,6 +9,6 @@ public class Calculate{
 		int pow = first * second;
 		System.out.println("Pow = " + pow);
 		int minus = first - second;
-		System.out.println("Minus = " + pow);		
+		System.out.println("Minus = " + minus);		
 	}
 }
