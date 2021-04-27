@@ -8,5 +8,7 @@ public class Calculate{
 		System.out.println("Sum = " + sum);
 		int pow = first * second;
 		System.out.println("Pow = " + pow);
+		int minus = first - second;
+		System.out.println("Minus = " + pow);		
 	}
 }
